@@ -1,0 +1,30 @@
+.container{
+    width: 1500px;
+}
+.box{
+    width: 1100px;
+}
+.parent{
+    display: flex;
+    
+}
+.parent a{
+    border: 1px solid ;
+    background-color: orange;
+    color: white;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 5px 225px 5px 30px;
+    
+}
+.firstbox{
+    border: 1px solid black;
+    width: 345px;
+    height: 400px;
+}
+
+.secondbox{
+    border: 1px solid black;
+    width: 345px;
+    height: 420px;
+}
